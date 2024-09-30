@@ -141,6 +141,7 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="images\graduation.jpg" />
     <Content Include="images\people-happy1.jpg" />
     <Content Include="images\people-happy2.jpg" />
     <Content Include="images\people-happy3.jpg" />
